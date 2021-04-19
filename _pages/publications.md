@@ -1,6 +1,9 @@
 ---
+layout: single
 title: "publications"
 permalink: /publications/
+header:
+  image: /assets/images/mode_atlas_background_3.png
 ---
 
 ### peer reviewed 
