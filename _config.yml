@@ -289,3 +289,18 @@ defaults:
       layout: single
       author_profile: true
 
+# _portfolio
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+
+# Add collections (https://mmistakes.github.io/minimal-mistakes/docs/collections/)
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
