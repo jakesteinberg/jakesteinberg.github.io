@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/roullett_2011.png
+  image: /assets/images/stunner_landmanalauger.jpg
 ---
 
 I am an observational physical oceanographer interested in mesoscale turbulence and eddy behavior. 
