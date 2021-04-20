@@ -5,4 +5,9 @@ permalink: /research/
 title: "research"
 ---
 
-![](/assets/images/cuddy_moving_tracking.mp4)
+interests:
+- eddy evolution and decay
+- mesoscale turburlence (eddy kinetic energy, energy fluxes, and baroclinic instability)
+- eddy vertical structre 
+- satellite oceanography 
+- Seaglider & Deepglider AUVs
