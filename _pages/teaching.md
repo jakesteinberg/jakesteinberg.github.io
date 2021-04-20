@@ -3,7 +3,7 @@ layout: single
 title: "teaching"
 permalink: /teaching/
 header:
-  image: /assets/images/gfd1.png
+  image: /assets/images/gfd1.jpg
   # caption: "[title](link)"
 ---
 
