@@ -6,19 +6,27 @@ header:
   image: /assets/images/mode_atlas_background_4.png
 ---
 
+### submitted 
+- Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
+  **Jacob M. Steinberg** & Charles C. Eriksen. 
+  *Journal of Physical Oceanography (2021)*
+
 ### peer reviewed 
-0.  [Glider Sampling Simulations in High-Resolution Ocean Models][2] 
-    **Jacob M. Steinberg** & Charles C. Eriksen  
+0.  [Glider Sampling Simulations in High-Resolution Ocean Models][2].
+    **Jacob M. Steinberg** & Charles C. Eriksen.  
     *Journal of Atmospheric and Oceanic Technology (2020)* 
 
-0.  [Observed Evolution of a California Undercurrent Eddy][2] 
-    **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen  
+0.  [Observed Evolution of a California Undercurrent Eddy][2].
+    **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen.  
     *Journal of Physical Oceanography (2019)* 
 
 0.  [Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter][1]
-    Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen  
+    Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen.  
     *Journal of Atmospheric and Oceanic Technology (2018)*  
 {: reversed="reversed"}
+
+### thesis 
+- [Eddy Vertical Structure and Variability: Vortex Evolution and the Geography of Geostrophic Turbulence](https://search.proquest.com/openview/60e28d852cdea92c54abfb9155a59ee5/1?pq-origsite=gscholar&cbl=18750&diss=y). Jacob Steinberg. University of Washington. 2020.
 
 ### previous work
 - Bioextractive Removal of Nitrogen by Oysters in Great Bay Piscataqua River Estuary, New Hampshire, USA. [https://doi.org/10.1007/s12237-019-00661-8]
