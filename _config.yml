@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Steinberg"
-  avatar           : "/assets/side_face_3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/side_face_3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "physical oceanography"
   location         : "Seattle, WA"
   email            :
