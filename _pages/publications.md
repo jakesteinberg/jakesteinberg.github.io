@@ -12,7 +12,7 @@ header:
   *Journal of Physical Oceanography (2021)*
 
 ### peer reviewed 
-0.  [Glider Sampling Simulations in High-Resolution Ocean Models][2].
+0.  [Glider Sampling Simulations in High-Resolution Ocean Models][3].
     **Jacob M. Steinberg** & Charles C. Eriksen.  
     *Journal of Atmospheric and Oceanic Technology (2020)* 
 
