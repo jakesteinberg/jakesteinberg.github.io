@@ -12,6 +12,10 @@ header:
   *Journal of Physical Oceanography (2021)*
 
 ### peer reviewed 
+0.  [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
+    Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
+    *Journal of Advances in Modeling Earth Systems (2021)* 
+
 0.  [Glider Sampling Simulations in High-Resolution Ocean Models][3].
     **Jacob M. Steinberg** & Charles C. Eriksen.  
     *Journal of Atmospheric and Oceanic Technology (2020)* 
@@ -37,3 +41,4 @@ header:
 [1]: /assets/documents/pelland_et_al_2018.pdf
 [2]: /assets/documents/steinberg_et_al_2019.pdf
 [3]: /assets/documents/steinberg_and_eriksen_2020.pdf
+[4]: /assets/documents/grooms_et_al_2021.pdf
