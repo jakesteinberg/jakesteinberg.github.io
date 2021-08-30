@@ -15,4 +15,4 @@ I grew up in Philadelphia, PA and in my free time I'm likely cycling, running, s
 
 [cv][1]
 
-[1]: /assets/documents/Steinberg_CV_2021_may.pdf
+[1]: /assets/documents/Steinberg_CV_2021_aug.pdf
