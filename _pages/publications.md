@@ -14,19 +14,19 @@ header:
 ### peer reviewed 
 0.  [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
     Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
-    *Journal of Advances in Modeling Earth Systems (2021)* 
+    *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
 
 0.  [Glider Sampling Simulations in High-Resolution Ocean Models][3].
     **Jacob M. Steinberg** & Charles C. Eriksen.  
-    *Journal of Atmospheric and Oceanic Technology (2020)* 
+    *Journal of Atmospheric and Oceanic Technology (2020)* doi: https://doi.org/10.1175/JTECH-D-19-0200.1
 
 0.  [Observed Evolution of a California Undercurrent Eddy][2].
     **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen.  
-    *Journal of Physical Oceanography (2019)* 
+    *Journal of Physical Oceanography (2019)* doi: https://doi.org/10.1175/JPO-D-18-0033.1
 
 0.  [Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter][1]
     Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen.  
-    *Journal of Atmospheric and Oceanic Technology (2018)*  
+    *Journal of Atmospheric and Oceanic Technology (2018)* doi: https://doi.org/10.1175/JTECH-D-18-0126.1
 {: reversed="reversed"}
 
 ### thesis 
