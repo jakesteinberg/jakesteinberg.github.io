@@ -10,7 +10,7 @@ Hello! I am a postdoctoral investigator at [Woods Hole Oceanographic Institution
 At WHOI I'm a team member on two projects: 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
     + goal: use observations to improve climate model mesoscale eddy parameterizations
-* [NASA Ocean Surface Topography from Space](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects). These projects focus on: 
+* [NASA Ocean Surface Topography from Space](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects).  
     + goal: explore patterns and trends in ocean bottom pressure (like that measured by [GRACE](https://grace.jpl.nasa.gov)), steric height, and sea surface height . 
 
 Of the many shapes, sizes, and types of eddies found in the ocean, I've always been interested in those that can live for many months and have the potential to trap and transport heat and nutrients over many hundreds of kilometers. Most eddies, including these coherent vortices, are surface intensified, but vertical structures extending below the thermocline mix isolated water masses and play an important role in the transfer of energy to the deep ocean. While larger and persistent eddies can be observed from altimetric observations of sea surface height, many are missed because they are too small or sub-surface intensified. My interests in eddy vertical structures thus range from topographic steering to decomposing surface observations into interior contributions.      
