@@ -15,4 +15,4 @@ Outside of work I like to run, climb, bike, swim, read, make coffee, and xc-ski.
 
 [cv][1]
 
-[1]: /assets/documents/Steinberg_CV_2021_aug.pdf
+[1]: /assets/documents/Steinberg_CV_2021_nov_11.pdf
