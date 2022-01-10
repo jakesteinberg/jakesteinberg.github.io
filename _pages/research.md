@@ -5,6 +5,10 @@ permalink: /research/
 title: "research"
 ---
 
+current projects 
+* Ocean Transport and Eddy Energy Climate Process Team (with Sylvia Cole) [link](https://ocean-eddy-cpt.github.io)
+* NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change (with Chris Piecuch) [link](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects)
+
 interests:
 * eddy evolution and decay
     + eddy tracking and material transport 
