@@ -7,7 +7,7 @@ header:
   # caption: "[title](link)"
 ---
 
-During my time at UW I helped run experiments and demonstations in our Geophysical Fluid Dynamics laboratory. In this lab, we ran fluid dynamics experiments designed to highlight specific processes including: surface gravity waves, internal gravity waves, Rossby waves, light refraction, geostrophic adjustment, eddy formation, ekman layers, and thermal wind. These experiments provide physical meaning to equations, relationships, and derivations discussed in the classroom. I'm extrememly grateful for the mentorship of Peter Rhines and his help in learning how to be an effective teacher in the GFD lab.
+During my time at UW I ran experiments and demonstations in our Geophysical Fluid Dynamics laboratory. In this lab, we ran fluid dynamics experiments designed to highlight specific processes including: surface gravity waves, internal gravity waves, Rossby waves, light refraction, geostrophic adjustment, eddy formation, ekman layers, and thermal wind. These experiments provide physical meaning to equations, relationships, and derivations discussed in the classroom. I'm extrememly grateful for the mentorship of Peter Rhines and his help in learning how to be an effective teacher in the GFD lab.
 
 **teaching experience (TA):**
 
