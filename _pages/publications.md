@@ -7,9 +7,13 @@ header:
 ---
 
 ### submitted 
+- [Seasonality of the Mesoscale Inverse Cascade as Inferred from Global Scale-Dependent Eddy Energy Observations](https://www.essoar.org/doi/abs/10.1002/essoar.10508837.1).
+  **Jacob M. Steinberg** & Sylvia Cole & Kyla Drushka & Ryan Abernathey. 
+  *Journal of Physical Oceanography (2021)* (in revision)
+
 - Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
   **Jacob M. Steinberg** & Charles C. Eriksen. 
-  *Journal of Physical Oceanography (2021)*
+  *Journal of Physical Oceanography (2021)* (in revision)
 
 ### peer reviewed 
 0.  [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
