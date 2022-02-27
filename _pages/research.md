@@ -7,21 +7,22 @@ title: "research"
 
 current projects 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (with Sylvia Cole) 
-* [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (with Chris Piecuch)
+* [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (with Christopher Piecuch)
 
 interests:
-* eddy evolution and decay
-    + eddy tracking and material transport 
-* mesoscale turburlence 
-    + partitioning of eddy kinetic/potential energy 
-    + energy transfers across scales (the inverse cascade) 
+* mesoscale turburlence  
+    + scale energy flux (inverse and forward cascades) 
 * eddy vertical structre 
-    + the surface projection of interior motions 
-    + bottom dissipation of kinetic energy 
+    + surface projection of interior motions: reconstructing interior flows from surface observations
+    + role of bathymetry in setting the partitioing of barotropic and baroclinic kinetic energy 
+    + drivers of kinetic energy dissipation at the sea floor 
+* regional patterns of sea level change  
+    + ocean bottom pressure and steric height connections to sea level  
+* coherent vortex evolution and decay
+    + eddy tracking (in-situ and via remote sensing) and material transport 
+    + applied topology (eddy geometries and connectedness) 
 * remote sensing (satellite oceanography) 
     + along-track altimeter derived sea surface height 
-* relationships among ocean bottom pressure, steric height, and sea surface height 
-    + spatial patterns in ocean warming 
 * Seaglider & Deepglider AUVs
     + deep ocean water mass transformation (spice variability) 
 <div style="width:350px; float: left">
