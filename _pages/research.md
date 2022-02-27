@@ -7,7 +7,10 @@ title: "research"
 
 current projects 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (with Sylvia Cole) 
+Mesoscale turbulence represents a major fraction of oceanic kinetic energy yet these motions are only at best partly resolved in global climate models. This research uses in-situ and remote sensing measurements of ocean eddies to better understand what sets the distribution of energy across horizontal and vertical scales with the intent of improving parameterizations in coarse models. 
+
 * [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (with Christopher Piecuch)
+While global mean trends in sea level have remained positive over the last 30 years, regional trends varying significantly in space and time. To better understand the physical drivers of these observed trends, we use a high resolution ocean simulation, forced by observed atmospheric conditions, to quanity relationships between ocean bottom pressure, steric height, and sea level. 
 
 interests:
 * mesoscale turburlence  
@@ -21,10 +24,7 @@ interests:
 * coherent vortex evolution and decay
     + eddy tracking (in-situ and via remote sensing) and material transport 
     + applied topology (eddy geometries and connectedness) 
-* remote sensing (satellite oceanography) 
-    + along-track altimeter derived sea surface height 
-* Seaglider & Deepglider AUVs
-    + deep ocean water mass transformation (spice variability) 
+* Autonomous Underwater Vehicles: Seaglider, Deepglider
 <div style="width:350px; float: left">
 {% include video id="VMxg_EHc-Bo" provider="youtube" %}
 </div>
