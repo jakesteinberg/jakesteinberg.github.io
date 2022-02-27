@@ -12,26 +12,25 @@ header:
   *Journal of Physical Oceanography (2021)* (in revision)
 
 ### peer reviewed 
-0.  Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
-    **Jacob M. Steinberg** & Charles C. Eriksen. 
-    *Journal of Physical Oceanography (2022)*(accepted)
+Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
+**Jacob M. Steinberg** & Charles C. Eriksen. 
+*Journal of Physical Oceanography (2022)*(accepted)
 
-0.  [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
-    Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
-    *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
+[Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
+Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
+*Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
 
-0.  [Glider Sampling Simulations in High-Resolution Ocean Models][3].
-    **Jacob M. Steinberg** & Charles C. Eriksen.  
-    *Journal of Atmospheric and Oceanic Technology (2020)* doi: https://doi.org/10.1175/JTECH-D-19-0200.1
+[Glider Sampling Simulations in High-Resolution Ocean Models][3].
+**Jacob M. Steinberg** & Charles C. Eriksen.  
+*Journal of Atmospheric and Oceanic Technology (2020)* doi: https://doi.org/10.1175/JTECH-D-19-0200.1
 
-0.  [Observed Evolution of a California Undercurrent Eddy][2].
-    **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen.  
-    *Journal of Physical Oceanography (2019)* doi: https://doi.org/10.1175/JPO-D-18-0033.1
+[Observed Evolution of a California Undercurrent Eddy][2].
+**Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen.  
+*Journal of Physical Oceanography (2019)* doi: https://doi.org/10.1175/JPO-D-18-0033.1
 
-0.  [Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter][1]
-    Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen.  
-    *Journal of Atmospheric and Oceanic Technology (2018)* doi: https://doi.org/10.1175/JTECH-D-18-0126.1
-{: reversed="reversed"}
+[Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter][1]
+Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen.  
+*Journal of Atmospheric and Oceanic Technology (2018)* doi: https://doi.org/10.1175/JTECH-D-18-0126.1
 
 ### thesis 
 - [Eddy Vertical Structure and Variability: Vortex Evolution and the Geography of Geostrophic Turbulence](https://search.proquest.com/openview/60e28d852cdea92c54abfb9155a59ee5/1?pq-origsite=gscholar&cbl=18750&diss=y). Jacob Steinberg. University of Washington. 2020.
