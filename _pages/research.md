@@ -18,9 +18,12 @@ interests:
 * eddy vertical structre 
     + the surface projection of interior motions 
     + bottom dissipation of kinetic energy 
-* satellite oceanography 
-    + along-track sea surface height 
-* Seaglider & Deepglider AUVs
-    + deep ocean water mass transformation (spice variability) 
+* remote sensing (satellite oceanography) 
+    + along-track altimeter derived sea surface height 
 * relationships among ocean bottom pressure, steric height, and sea surface height 
     + spatial patterns in ocean warming 
+* Seaglider & Deepglider AUVs
+    + deep ocean water mass transformation (spice variability) 
+<div style="width:350px; float: left">
+{% include video id="VMxg_EHc-Bo" provider="youtube" %}
+</div>
