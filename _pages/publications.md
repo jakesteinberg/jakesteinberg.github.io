@@ -11,11 +11,11 @@ header:
   **Jacob M. Steinberg** & Sylvia Cole & Kyla Drushka & Ryan Abernathey. 
   *Journal of Physical Oceanography (2021)* (in revision)
 
-- Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
-  **Jacob M. Steinberg** & Charles C. Eriksen. 
-  *Journal of Physical Oceanography (2021)* (in revision)
-
 ### peer reviewed 
+0.  Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
+    **Jacob M. Steinberg** & Charles C. Eriksen. 
+    *Journal of Physical Oceanography (2022)*(accepted)
+
 0.  [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
     Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
     *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
