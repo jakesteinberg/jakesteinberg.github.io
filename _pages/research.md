@@ -14,23 +14,22 @@ While global mean trends in sea level have remained positive over the last 30 ye
 
 <span style="text-decoration: underline">interests:</span>
 
-**mesoscale turburlence**
-    + scale energy flux (inverse and forward cascades) 
+**mesoscale turburlence** \
+    scale energy flux (inverse and forward cascades) 
     
-**eddy vertical structre**
-    + surface projection of interior motions: reconstructing interior flows from surface observations
-    + role of bathymetry in setting the partitioing of barotropic and baroclinic kinetic energy 
-    + drivers of kinetic energy dissipation at the sea floor 
+**eddy vertical structre** \
+* surface projection of interior motions: reconstructing interior flows from surface observations
+* role of bathymetry in setting the partitioing of barotropic and baroclinic kinetic energy 
+* drivers of kinetic energy dissipation at the sea floor 
     
-**regional patterns of sea level change**  
-    + ocean bottom pressure and steric height connections to sea level  
+**regional patterns of sea level change** \ 
+    ocean bottom pressure and steric height connections to sea level  
     
-**coherent vortex evolution and decay**
-    + eddy tracking (in-situ and via remote sensing) and material transport 
-    + applied topology (eddy geometries and connectedness) 
+**coherent vortex evolution and decay** \
+* eddy tracking (in-situ and via remote sensing) and material transport 
+* applied topology (eddy geometries and connectedness) 
     
-**Autonomous Underwater Vehicles: Seaglider, Deepglider**
-
+**Autonomous Underwater Vehicles: Seaglider, Deepglider** \
 this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
 <img src="/assets/images/google_earth_aviso2.png" width="500" height="480"/>
 
