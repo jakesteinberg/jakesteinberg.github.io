@@ -29,7 +29,7 @@ ocean bottom pressure and steric height connections to sea level
 eddy tracking (in-situ, remotely sensed), material transport, and applied topology (contour trees, eddy geometries, and connectedness) 
  
 <div style="width:550px; float: left">
-{% include video id="QVJNaVUBONo" provider="youtube" %} \ 
+{% include video id="QVJNaVUBONo" provider="youtube" %}  
     
 **Autonomous Underwater Vehicles: Seaglider, Deepglider** \
 this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
