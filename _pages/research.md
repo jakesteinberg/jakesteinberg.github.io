@@ -25,6 +25,10 @@ interests:
     + eddy tracking (in-situ and via remote sensing) and material transport 
     + applied topology (eddy geometries and connectedness) 
 * Autonomous Underwater Vehicles: Seaglider, Deepglider
-<div style="width:350px; float: left">
+this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
+<img src="/assets/images/google_earth_aviso2.png" width="400" height="380"/>
+
+a Deepglider deployment in Bermuda 2018 
+<div style="width:400px; float: left">
 {% include video id="VMxg_EHc-Bo" provider="youtube" %}
 </div>
