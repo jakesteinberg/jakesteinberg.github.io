@@ -18,7 +18,7 @@ Of the many shapes, sizes, and types of eddies found in the ocean, I've always b
 
 Below is a figure generated from observations made by multiple Seaglider autonomous underwater vehicles. These gliders were deployed as part of a 2013-2014 field campaign to find and follow a single eddy off of the Washington coast. This work was carried out to observe eddy evolution and show that gliders enable the tracking of prevalent features that satellite observations would miss. 
 
-The radial structure and symmetry of this coherent eddy can be seen in the colored depth-average current vector estimates. The locations of these vectors identify glider collected profiles relative to an estimate of the moving eddy center. In plan view, red and blue arrows are 0-1000 m depth-average velocity vectors, green circles indicate the vertical distance separating two density surfaces (one above and one below the core depth at ~ 200 meters) (larger circles correspond to greater vertical separation), and the colored contours map a cost function whose minization determines a best estimate of the eddy center location over a ~ 2 week period. 
+<img src="/assets/images/centering_method.png" width="460" height="415"/>
 
-<img src="/assets/images/centering_method.png" width="450" height="425"/>
+The radial structure and symmetry of this coherent eddy can be seen in the colored depth-average current vector estimates. The locations of these vectors identify glider collected profiles relative to an estimate of the moving eddy center. In plan view, red and blue arrows are 0-1000 m depth-average velocity vectors, green circles indicate the vertical distance separating two density surfaces (one above and one below the core depth at ~ 200 meters) (larger circles correspond to greater vertical separation), and the colored contours map a cost function whose minization determines a best estimate of the eddy center location over a ~ 2 week period. 
 
