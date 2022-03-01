@@ -24,11 +24,10 @@ interests:
 * coherent vortex evolution and decay
     + eddy tracking (in-situ and via remote sensing) and material transport 
     + applied topology (eddy geometries and connectedness) 
-* Autonomous Underwater Vehicles: Seaglider, Deepglider
+* **Autonomous Underwater Vehicles: Seaglider, Deepglider**
 this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
-<img src="/assets/images/google_earth_aviso2.png" width="400" height="380"/>
-
+<img src="/assets/images/google_earth_aviso2.png" width="450" height="430"/>
 a Deepglider deployment in Bermuda 2018 
-<div style="width:400px; float: left">
+<div style="width:450px; float: left">
 {% include video id="VMxg_EHc-Bo" provider="youtube" %}
 </div>
