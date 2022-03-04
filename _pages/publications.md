@@ -11,8 +11,7 @@ header:
 
 ### peer reviewed 
 Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
-**Jacob M. Steinberg** & Charles C. Eriksen. 
-*Journal of Physical Oceanography (2022)*(accepted)
+**Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0068.1 
 
 [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
 Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
