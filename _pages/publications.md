@@ -13,6 +13,9 @@ header:
 Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic.
 **Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0068.1 
 
+[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data](https://joss.theoj.org/papers/10.21105/joss.03947). 
+Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arther Guillaumin, Elizabeth Yankovsky, Gustavo Marques, **Jacob Steinberg**, Andrew Slavin Ross, Hemant Khatri, Scott Bachman, Laure Zanna, & Paige Martin. *Journal of Open Source Software (2022)*. doi: https://doi.org/10.21105/joss.03947
+
 [Diffusion-based smoothers for spatial filtering of gridded geophysical data][4].
 Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
 *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
