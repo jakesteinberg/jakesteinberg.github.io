@@ -10,23 +10,23 @@ header:
 [Seasonality of the Mesoscale Inverse Cascade as Inferred from Global Scale-Dependent Eddy Energy Observations](https://www.essoar.org/doi/abs/10.1002/essoar.10508837.1). **Jacob M. Steinberg** & Sylvia Cole & Kyla Drushka & Ryan Abernathey. *Journal of Physical Oceanography (2021)* (in revision)
 
 ### peer reviewed 
-"Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic"
+["Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic"](https://doi.org/10.1175/JPO-D-21-0068.1).
 **Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0068.1 
 
-"GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data" 
+["GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data"](https://doi.org/10.21105/joss.03947).
 Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arther Guillaumin, Elizabeth Yankovsky, Gustavo Marques, **Jacob Steinberg**, Andrew Slavin Ross, Hemant Khatri, Scott Bachman, Laure Zanna, & Paige Martin. *Journal of Open Source Software (2022)*. doi: https://doi.org/10.21105/joss.03947
 
-"Diffusion-based smoothers for spatial filtering of gridded geophysical data"
+["Diffusion-based smoothers for spatial filtering of gridded geophysical data"](https://doi.org/10.1029/2021MS002552).
 Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
 *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
 
-"Glider Sampling Simulations in High-Resolution Ocean Models"
+["Glider Sampling Simulations in High-Resolution Ocean Models"](https://doi.org/10.1175/JTECH-D-19-0200.1).
 **Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Atmospheric and Oceanic Technology (2020)* doi: https://doi.org/10.1175/JTECH-D-19-0200.1
 
-"Observed Evolution of a California Undercurrent Eddy"
+["Observed Evolution of a California Undercurrent Eddy"](https://doi.org/10.1175/JPO-D-18-0033.1).
 **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen. *Journal of Physical Oceanography (2019)* doi: https://doi.org/10.1175/JPO-D-18-0033.1
 
-"Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter"
+["Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter"](https://doi.org/10.1175/JTECH-D-18-0126.1).
 Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen. *Journal of Atmospheric and Oceanic Technology (2018)* doi: https://doi.org/10.1175/JTECH-D-18-0126.1
 
 ### thesis 
