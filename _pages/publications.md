@@ -7,28 +7,30 @@ header:
 ---
 
 ### submitted 
+["NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions"](https://doi.org/10.5194/egusphere-2022-186)  <br />
+Gustavo Marques, Nora Loose, Elizabeth Yankovsky, **Jacob Steinberg**, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, Laure Zanna (2022) (pre-print https://doi.org/10.5194/egusphere-2022-186) 
 
 ### peer reviewed 
-[Seasonality of the Mesoscale Inverse Cascade as Inferred from Global Scale-Dependent Eddy Energy Observations](https://doi.org/10.1175/JPO-D-21-0269.1)
-**Jacob M. Steinberg** & Sylvia Cole & Kyla Drushka & Ryan Abernathey. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0269.1
+[Seasonality of the Mesoscale Inverse Cascade as Inferred from Global Scale-Dependent Eddy Energy Observations](https://doi.org/10.1175/JPO-D-21-0269.1)  <br />
+**Jacob M. Steinberg**, Sylvia Cole, Kyla Drushka, Ryan Abernathey. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0269.1
 
-["Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic"](https://doi.org/10.1175/JPO-D-21-0068.1).
+["Eddy Vertical Structure and Variability: Deepglider Observations in the North Atlantic"](https://doi.org/10.1175/JPO-D-21-0068.1)  <br />
 **Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Physical Oceanography (2022)* doi: https://doi.org/10.1175/JPO-D-21-0068.1 
 
-["GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data"](https://doi.org/10.21105/joss.03947).
+["GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data"](https://doi.org/10.21105/joss.03947)  <br />
 Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arther Guillaumin, Elizabeth Yankovsky, Gustavo Marques, **Jacob Steinberg**, Andrew Slavin Ross, Hemant Khatri, Scott Bachman, Laure Zanna, & Paige Martin. *Journal of Open Source Software (2022)*. doi: https://doi.org/10.21105/joss.03947
 
-["Diffusion-based smoothers for spatial filtering of gridded geophysical data"](https://doi.org/10.1029/2021MS002552).
+["Diffusion-based smoothers for spatial filtering of gridded geophysical data"](https://doi.org/10.1029/2021MS002552)  <br />
 Ian Grooms, Nora Loose, Ryan Abernathey, **Jacob M. Steinberg**, Scott D. Bachman, Gustavo Marques, Arthur P. Guillaumin, & Elizabeth Yankovsky.  
 *Journal of Advances in Modeling Earth Systems (2021)* doi: https://doi.org/10.1029/2021MS002552
 
-["Glider Sampling Simulations in High-Resolution Ocean Models"](https://doi.org/10.1175/JTECH-D-19-0200.1).
+["Glider Sampling Simulations in High-Resolution Ocean Models"](https://doi.org/10.1175/JTECH-D-19-0200.1)  <br />
 **Jacob M. Steinberg** & Charles C. Eriksen. *Journal of Atmospheric and Oceanic Technology (2020)* doi: https://doi.org/10.1175/JTECH-D-19-0200.1
 
-["Observed Evolution of a California Undercurrent Eddy"](https://doi.org/10.1175/JPO-D-18-0033.1).
+["Observed Evolution of a California Undercurrent Eddy"](https://doi.org/10.1175/JPO-D-18-0033.1)  <br />
 **Jacob M. Steinberg**, Noel A. Pelland, & Charles C. Eriksen. *Journal of Physical Oceanography (2019)* doi: https://doi.org/10.1175/JPO-D-18-0033.1
 
-["Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter"](https://doi.org/10.1175/JTECH-D-18-0126.1).
+["Automated Glider Tracking of a California Undercurrent Eddy Using the Extended Kalman Filter"](https://doi.org/10.1175/JTECH-D-18-0126.1)  <br />
 Noel. A. Pelland, James. S. Bennett, **Jacob M. Steinberg**, & Charles C. Eriksen. *Journal of Atmospheric and Oceanic Technology (2018)* doi: https://doi.org/10.1175/JTECH-D-18-0126.1
 
 ### thesis 
