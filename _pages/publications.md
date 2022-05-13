@@ -8,7 +8,7 @@ header:
 
 ### submitted 
 ["NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions"](https://doi.org/10.5194/egusphere-2022-186)  <br />
-Gustavo Marques, Nora Loose, Elizabeth Yankovsky, **Jacob Steinberg**, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, Laure Zanna (2022) (pre-print https://doi.org/10.5194/egusphere-2022-186) 
+Gustavo Marques, Nora Loose, Elizabeth Yankovsky, **Jacob Steinberg**, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, & Laure Zanna (2022) (pre-print https://doi.org/10.5194/egusphere-2022-186) 
 
 ### peer reviewed 
 [Seasonality of the Mesoscale Inverse Cascade as Inferred from Global Scale-Dependent Eddy Energy Observations](https://doi.org/10.1175/JPO-D-21-0269.1)  <br />
