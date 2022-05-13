@@ -10,7 +10,7 @@ title: "research"
 Mesoscale turbulence represents a major fraction of oceanic kinetic energy yet these motions are only at best partly resolved in global climate models. This research uses in-situ and remote sensing measurements of ocean eddies to better understand what sets the distribution of energy across horizontal and vertical scales with the intent of improving parameterizations in coarse models. 
 
 * [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (with Christopher Piecuch)
-While global mean trends in sea level have remained positive over the last 30 years, regional trends varying significantly in space and time. To better understand the physical drivers of these observed trends, we use a high resolution ocean simulation, forced by observed atmospheric conditions, to quanity relationships between ocean bottom pressure, steric height, and sea level. 
+While global mean trends in sea level have remained positive over the last 30 years, regional trends varying significantly in space and time. To better understand the physical drivers of these observed trends, we use the [ECCO state estimate](https://ecco-group.org/home.cgi) along with remote and in-situ measurements, to quantify relationships between ocean bottom pressure, steric height, and sea level. 
 
 <span style="text-decoration: underline">interests:</span>
 
