@@ -28,16 +28,16 @@ ocean bottom pressure and steric height connections to sea level
 **coherent vortex evolution and decay** \
 eddy tracking (in-situ, remotely sensed), material transport, and applied topology (contour trees, eddy geometries, and connectedness) 
  
-<div style="width:600px; float: left">
+<div style="width:650px; height:550px; float: left">
 {% include video id="QVJNaVUBONo" provider="youtube" %}  
 </div>   
 
 **Autonomous Underwater Vehicles: Seaglider, Deepglider** \
 this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
   
-<img src="/assets/images/google_earth_aviso2.png" width="600" height="530"/>
+<img src="/assets/images/google_earth_aviso2.png" width="650" height="600"/>
 
 a Deepglider deployment in Bermuda 2018 
-<div style="width:600px; float: left">
+<div style="width:650px; height:550px; float: left">
 {% include video id="VMxg_EHc-Bo" provider="youtube" %}
 </div>
