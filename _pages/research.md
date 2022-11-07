@@ -28,7 +28,7 @@ ocean bottom pressure and steric height connections to sea level
 **coherent vortex evolution and decay** \
 eddy tracking (in-situ, remotely sensed), material transport, and applied topology (contour trees, eddy geometries, and connectedness) 
  
-<div style="width:650px; height:550px; float: left">
+<div style="width:750px; height:650px; float: left">
 {% include video id="QVJNaVUBONo" provider="youtube" %}  
 </div>   
 
