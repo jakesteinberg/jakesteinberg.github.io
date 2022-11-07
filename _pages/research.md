@@ -35,7 +35,7 @@ eddy tracking (in-situ, remotely sensed), material transport, and applied topolo
 **Autonomous Underwater Vehicles: Seaglider, Deepglider** \
 this photo shows coordinating efforts to use altimeter derived surface velocities while piloting gliders to sites of interest (2019) 
   
-<img src="/assets/images/google_earth_aviso2.png" width="650" height="600"/>
+<img src="/assets/images/google_earth_aviso2.png" width="650" height="550"/>
 
 a Deepglider deployment in Bermuda 2018 
 <div style="width:650px; height:550px; float: left">
