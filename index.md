@@ -5,7 +5,9 @@ header:
   image: /assets/images/stunner_landmanalauger.jpg
 ---
 
-Hello! I am a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu) where my research as a physical oceanographer employs observations made by satellites, ships, moorings, floats, and autonomous underwater vehicles. My research interests include mesoscale eddy turbulence, eddy vertical structure, and relationships between sea surface height, ocean bottom pressure, and interior flows. 
+Hello! I am a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu) where my research as a physical oceanographer employs observations made by satellites, ships, moorings, floats, and autonomous underwater vehicles. My research interests include mesoscale eddy turbulence, eddy vertical structure, and relationships between sea surface height, ocean bottom pressure, and interior flows. [curriculum vitae][1]
+
+[1]: /assets/documents/Steinberg_CV_2022_11_07.pdf
 
 At WHOI I'm a team member on two projects: 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
