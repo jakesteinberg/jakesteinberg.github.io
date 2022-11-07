@@ -33,8 +33,11 @@ eddy tracking (in-situ, remotely sensed), material transport, and applied topolo
 </div>   
   
 \
+
 \
+
 \
+
 \
   
 **Autonomous Underwater Vehicles: Seaglider, Deepglider** \
