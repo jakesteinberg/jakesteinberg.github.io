@@ -7,6 +7,11 @@ header:
 ---
 
 ### submitted 
+["Influence of Deep-Ocean Warming on Coastal Sea Level Trends in the Gulf of Mexico"](https://essopenarchive.org/doi/full/10.22541/essoar.167591128.80195286/v1)  <br />
+**Jacob Steinberg**, Christopher Piecuch, Benjamin Hamlington, Phillip Thompson, Sloan Coats. *Journal of Geophysical Research: Oceans ( pre-print )* doi: https://essopenarchive.org/doi/full/10.22541/essoar.167591128.80195286/v1
+
+["On the Vertical Structure of Deep Ocean Subintertial Variability"]()  <br />
+John Toole, Ruth Musgrave, Elizabeth Fine, **Jacob Steinberg**, Richard Krishfield. *Journal of Physical Oceanography (submitted)*
 
 ### peer reviewed 
 ["NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions"](https://doi.org/10.5194/gmd-15-6567-2022)  <br />
