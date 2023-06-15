@@ -5,11 +5,13 @@ header:
   image: /assets/images/stunner_landmanalauger.jpg
 ---
 
-Hello! I am a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu) where my research as a physical oceanographer employs observations made by satellites, ships, moorings, floats, and autonomous underwater vehicles. My research interests include mesoscale eddy turbulence, eddy vertical structure, and relationships between sea surface height, ocean bottom pressure, and interior flows. [curriculum vitae][1]
+Hello! I'm a research scientist at N.O.A.A.'s Geophysical Fluid Dynamics Laboratory (GFDL). At GFDL I am focused on building an improved understanding of coastal sea level variability. Using both observations and state-of-the-art ocean/climate models, I am working to identify mechanistic links between the open ocean and the coast relating to changes in ocean circulation and heat content. My approach is based on experiences gained as an observational physical oceangrapher studying mesoscale eddy energy cycles and vertical structure.   
+
+Prior to starting this position, I was a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu) where my research employed observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles. Past and present research interests include mesoscale eddy turbulence, eddy vertical structure, and relationships among sea surface height, ocean bottom pressure (manometric sea level), steric sea level, and interior flows. [curriculum vitae][1]
 
 [1]: /assets/documents/Steinberg_CV_2022_11_23.pdf
 
-At WHOI I'm a team member on two projects: 
+At WHOI I was a team member on two projects: 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
     + goal: use observations to improve climate model mesoscale eddy parameterizations
 * [NASA Ocean Surface Topography from Space](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects)  
