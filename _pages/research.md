@@ -5,19 +5,19 @@ permalink: /research/
 title: "research"
 ---
 
-<span style="text-decoration: underline">current projects:</span> 
-* [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (with Sylvia Cole) 
-Mesoscale turbulence represents a major fraction of oceanic kinetic energy yet these motions are only at best partly resolved in global climate models. This research uses in-situ and remote sensing measurements of ocean eddies to better understand what sets the distribution of energy across horizontal and vertical scales with the intent of improving parameterizations in coarse models. 
+<span style="text-decoration: underline">past and present interests:</span> 
 
-* [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (with Christopher Piecuch)
-While global mean trends in sea level have remained positive over the last 30 years, regional trends varying significantly in space and time. To better understand the physical drivers of these observed trends, we use the [ECCO state estimate](https://ecco-group.org/home.cgi) along with remote and in-situ measurements, to quantify relationships between ocean bottom pressure, steric height, and sea level. 
+**postdoc projects** \
+* [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (w/ S. Cole, E. Yankovsky, S. Smith, L. Zanna, K. Drushka, ...) 
+Mesoscale turbulence represents a major fraction of oceanic kinetic energy yet these motions are only at best partly resolved in global climate models. This research incorporates in-situ and remote sensing measurements of ocean eddies to better understand what sets the distribution of energy across horizontal and vertical scales with the intent of improving parameterizations in coarse models. 
 
-<span style="text-decoration: underline">interests:</span>
+* [NASA Ocean Surface Topography from Space: 30-Year Satellite-Altimeter Record or Regional Sea-Level Change](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) (w C. Piecuch, B. Hamlington, P. Thompson, S. Coats)
+While global mean trends in sea level have remained positive over the last 30 years, regional trends vary significantly in space and time. To better understand the physical drivers of these observed trends, we used the [ECCO state estimate](https://ecco-group.org/home.cgi) along with remotely observed and in-situ measurements, to quantify relationships among ocean bottom pressure, steric height, and sea level. 
 
 **mesoscale turburlence** \
 scale energy flux (inverse and forward cascades) 
     
-**eddy vertical structre** 
+**eddy vertical structure** 
 * surface projection of interior motions: reconstructing interior flows from surface observations
 * role of bathymetry in setting the partitioing of barotropic and baroclinic kinetic energy 
 * drivers of kinetic energy dissipation at the sea floor 
