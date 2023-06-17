@@ -1,17 +1,19 @@
 ---
 layout: single
 title: "education/outreach"
-permalink: /teaching/
+permalink: /education-outreach/
 header:
   image: /assets/images/gfd1.jpg
   # caption: "[title](link)
 ---
 
-**in the news**
-Recent work attributing coastal sea level rise in the Gulf of Mexico to subsurface ocean warming. My continued goal is to develop opportunities to interact and engage with policy makers to better understand current and future sea level changes.  <br />
-[Washington Post 04/10/2023](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/)
+**in the news** 
 
-Recent teaching/education efforts of mine include: MIT EAPS graduate student mentoring, NOAA Hollings Undergraduate Scholarship Program advising, and UW Student Seaglider Center advising.    
+Recent work attributing coastal sea level rise in the Gulf of Mexico to subsurface ocean warming featured in the [Washington Post (04/10/2023)](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/). My continued goal is to develop opportunities to interact and engage with policy makers to better understand current and future sea level changes.  
+
+**teaching**
+
+Current/past education efforts as a postdoc and research scientist: MIT EAPS graduate student mentoring, NOAA Hollings Undergraduate Scholarship Program advising, and UW Student Seaglider Center advising.    
 
 During my time at UW I ran experiments and demonstations in our Geophysical Fluid Dynamics laboratory. In this lab, we ran fluid dynamics experiments designed to highlight specific processes including: surface gravity waves, internal gravity waves, Rossby waves, light refraction, geostrophic adjustment, eddy formation, ekman layers, and thermal wind. These experiments provide physical meaning to equations, relationships, and derivations discussed in the classroom. I'm extrememly grateful for the mentorship of Peter Rhines and his help in learning how to be an effective teacher in the GFD lab.
 
