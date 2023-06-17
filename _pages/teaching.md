@@ -1,11 +1,15 @@
 ---
 layout: single
-title: "teaching"
+title: "education/outreach"
 permalink: /teaching/
 header:
   image: /assets/images/gfd1.jpg
   # caption: "[title](link)
 ---
+
+**in the news**
+Recent work attributing coastal sea level rise in the Gulf of Mexico to subsurface ocean warming. My continued goal is to develop opportunities to interact and engage with policy makers to better understand current and future sea level changes.  <br />
+[Washington Post 04/10/2023](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/)
 
 Recent teaching/education efforts of mine include: MIT EAPS graduate student mentoring, NOAA Hollings Undergraduate Scholarship Program advising, and UW Student Seaglider Center advising.    
 
