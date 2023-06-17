@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "education/outreach"
-permalink: /education-outreach/
+permalink: /teaching/
 header:
   image: /assets/images/gfd1.jpg
   # caption: "[title](link)
