@@ -97,12 +97,12 @@ author:
   name             : "Jacob Steinberg"
   avatar           : "/assets/images/side_face_3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "physical oceanography"
-  location         : "Seattle, WA"
+  location         : "Philadelphia, PA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jsteinberg@whoi.edu"
+      url: "mailto:jms000@uw.edu"
     - label: "google scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.it/citations?user=Brnb7nAAAAAJ&hl=en&oi=ao"
