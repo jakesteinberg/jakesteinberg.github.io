@@ -7,9 +7,7 @@ header:
 
 Hello! I'm a research scientist at the National Oceanographic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory ([GFDL](https://www.gfdl.noaa.gov/)). At GFDL, I work to better understand the patterns and drivers sea level variability. Using both observations and state-of-the-art ocean/climate models developed at GFDL, I work to identify mechanistic links between open-ocean and coastal sea level change. I'm particularly interested in coastal changes driven by ocean circulation and heat content change. My approach is based on experiences gained as an observational physical oceangrapher studying mesoscale eddies and eddy vertical structure.   
 
-Prior to starting this position, I was a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. [curriculum vitae][1]
-
-[1]: /assets/documents/Steinberg_CV_2022_11_23.pdf
+Prior to starting this position, I was a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. 
 
 At WHOI, I was a member of: 
 * [The Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
