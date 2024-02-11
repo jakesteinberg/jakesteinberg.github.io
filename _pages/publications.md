@@ -6,14 +6,20 @@ header:
   image: /assets/images/mode_atlas_background_4.png
 ---
 
-### submitted 
-["Influence of Deep-Ocean Warming on Coastal Sea Level Trends in the Gulf of Mexico"](https://essopenarchive.org/doi/full/10.22541/essoar.167591128.80195286/v1)  <br />
-**Jacob Steinberg**, Christopher Piecuch, Benjamin Hamlington, Phillip Thompson, Sloan Coats. *Journal of Geophysical Research: Oceans ( pre-print )* doi: https://essopenarchive.org/doi/full/10.22541/essoar.167591128.80195286/v1
+### in prep.
+A Mechanistic Link Between North Atlantic Heat Content and U.S. East Coast Sea Level Change
 
-["On the Vertical Structure of Deep Ocean Subintertial Variability"]()  <br />
-John Toole, Ruth Musgrave, Elizabeth Fine, **Jacob Steinberg**, Richard Krishfield. *Journal of Physical Oceanography (submitted)*
+A Landscape of Eddy Vertical Structure: methods of characterization and the role of bathymetry
+
+### submitted 
 
 ### peer reviewed 
+["Influence of Deep-Ocean Warming on Coastal Sea Level Trends in the Gulf of Mexico"](https://doi.org/10.1029/2023JC019681)  <br />
+**Jacob Steinberg**, Christopher Piecuch, Benjamin Hamlington, Phillip Thompson, Sloan Coats. *Journal of Geophysical Research: Oceans (2024)* doi: https://doi.org/10.1029/2023JC019681
+
+["On the Vertical Structure of Deep Ocean Subintertial Variability"](https://doi.org/10.1175/JPO-D-23-0011.1)  <br />
+John Toole, Ruth Musgrave, Elizabeth Fine, **Jacob Steinberg**, Richard Krishfield. *Journal of Physical Oceanography (2023)* doi: https://doi.org/10.1175/JPO-D-23-0011.1
+
 ["NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions"](https://doi.org/10.5194/gmd-15-6567-2022)  <br />
 Gustavo Marques, Nora Loose, Elizabeth Yankovsky, **Jacob Steinberg**, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, & Laure Zanna *Geoscientific Model Development (2022)* doi: https://doi.org/10.5194/gmd-15-6567-2022 
 
