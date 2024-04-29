@@ -7,6 +7,9 @@ header:
 
 Hello! I'm a research scientist at the National Oceanographic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory ([GFDL](https://www.gfdl.noaa.gov/)). At GFDL, I work to better understand the patterns and drivers sea level variability. Using both observations and state-of-the-art ocean/climate models developed at GFDL, I work to identify mechanistic links between open-ocean and coastal sea level change. I'm particularly interested in coastal changes driven by ocean circulation and heat content change. My approach is based on experiences gained as an observational physical oceangrapher studying mesoscale eddies and eddy vertical structure.   
 
+In the news: [The New Face of Flooding, 2024-04-29, Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2024/flooding-sea-level-rise-gulf-coast/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE0MzYzMjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE1NzQ1NTk5LCJpYXQiOjE3MTQzNjMyMDAsImp0aSI6IjU4NjRmNGRjLTJiYTItNDRiZS1iZTE5LTMzYWNiZTY2ZThjZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50L2ludGVyYWN0aXZlLzIwMjQvZmxvb2Rpbmctc2VhLWxldmVsLXJpc2UtZ3VsZi1jb2FzdC8ifQ.OfWJgBu-6RJGpDUux7a7Wp9azfRWUoy0ewRIJBCnr_Y&itid=gfta) [Seas have drastically risen along southern US coast in past decade, 2023-04-10, Washington Post]
+
+
 Prior to starting this position, I was a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. 
 
 At WHOI, I was a member of: 
