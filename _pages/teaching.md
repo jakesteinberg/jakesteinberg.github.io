@@ -7,9 +7,9 @@ header:
   # caption: "[title](link)
 ---
 
-**in the news** 
+**mentoring**
 
-Recent work attributing coastal sea level rise in the Gulf of Mexico to subsurface ocean warming featured in the [Washington Post (04/10/2023)](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/). My continued goal is to develop opportunities to interact and engage with policy makers to better understand current and future sea level changes.  
+* 2023, 2024 NOAA Hollings Scholarship Program mentor
 
 **teaching**
 
