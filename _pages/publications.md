@@ -7,11 +7,11 @@ header:
 ---
 
 ### in prep.
-A Mechanistic Link Between North Atlantic Heat Content and U.S. East Coast Sea Level Change
-
 A Landscape of Eddy Vertical Structure: methods of characterization and the role of bathymetry
 
 ### submitted 
+["A Link Between U.S. East Coast Sea Level and North Atlantic Subtropical Ocean Heat Content"]([https://doi.org/10.1029/2023JC019681](https://essopenarchive.org/users/794306/articles/1109063-a-link-between-u-s-east-coast-sea-level-and-north-atlantic-subtropical-ocean-heat-content))  <br />
+**Jacob Steinberg**, Stephen Griffies, John Krasting, Christopher Piecuch, Andrew Ross. *Journal of Geophysical Research: Oceans (submitted to JGR Oceans)* 
 
 ### peer reviewed 
 ["Influence of Deep-Ocean Warming on Coastal Sea Level Trends in the Gulf of Mexico"](https://doi.org/10.1029/2023JC019681)  <br />
