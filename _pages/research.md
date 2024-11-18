@@ -7,6 +7,16 @@ title: "research"
 
 <span style="text-decoration: underline">past and present interests:</span> 
 
+**sea level** \
+* exploration into the regional patterns and drivers of sea level change** \
+linking ocean bottom pressure, steric height, and cross-shelf density structure and transport
+
+* high resolution regional downscaling of climate models
+identifying improvements in coastal sea level predictions across weekly to inter-annual timescales
+
+* improved representation of sea level relevant processes in climate models
+non-Boussinesq configurations, interactive ice-sheet, self-attraction and loading parameterizations, boundary current representation
+
 **postdoc projects** \
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (w/ S. Cole, E. Yankovsky, S. Smith, L. Zanna, K. Drushka, ...) 
 Mesoscale turbulence represents a major fraction of oceanic kinetic energy yet these motions are only at best partly resolved in global climate models. This research incorporates in-situ and remote sensing measurements of ocean eddies to better understand what sets the distribution of energy across horizontal and vertical scales with the intent of improving parameterizations in coarse models. 
@@ -20,10 +30,7 @@ scale energy flux (inverse and forward cascades)
 **eddy vertical structure** 
 * surface projection of interior motions: reconstructing interior flows from surface observations
 * role of bathymetry in setting the partitioing of barotropic and baroclinic kinetic energy 
-* drivers of kinetic energy dissipation at the sea floor 
-    
-**regional patterns of sea level change** \
-ocean bottom pressure and steric height connections to sea level  
+* drivers of kinetic energy dissipation at the sea floor  
     
 **coherent vortex evolution and decay** \
 eddy tracking (in-situ, remotely sensed), material transport, and applied topology (contour trees, eddy geometries, and connectedness) 
