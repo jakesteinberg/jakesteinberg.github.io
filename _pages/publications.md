@@ -6,14 +6,17 @@ header:
   image: /assets/images/mode_atlas_background_4.png
 ---
 
-### in prep.
-A Landscape of Eddy Vertical Structure: methods of characterization and the role of bathymetry
+### in preparation
+"A Landscape of Eddy Vertical Structure: methods of characterization and the role of bathymetric slope and roughness" **Jacob Steinberg**, Elizabeth Yankovsky, Sylvia Cole, Laure Zanna
+
+"The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties + Part II: case studies" Stephen Griffies et al. 
 
 ### submitted 
-["A Link Between U.S. East Coast Sea Level and North Atlantic Subtropical Ocean Heat Content"](https://essopenarchive.org/users/794306/articles/1109063-a-link-between-u-s-east-coast-sea-level-and-north-atlantic-subtropical-ocean-heat-content)  <br />
-**Jacob Steinberg**, Stephen Griffies, John Krasting, Christopher Piecuch, Andrew Ross. *Journal of Geophysical Research: Oceans (submitted to JGR Oceans)* 
 
 ### peer reviewed 
+["A Link Between U.S. East Coast Sea Level and North Atlantic Subtropical Ocean Heat Content"](https://essopenarchive.org/users/794306/articles/1109063-a-link-between-u-s-east-coast-sea-level-and-north-atlantic-subtropical-ocean-heat-content)  <br />
+**Jacob Steinberg**, Stephen Griffies, John Krasting, Christopher Piecuch, Andrew Ross. *Journal of Geophysical Research: Oceans (accepted Nov 2024)* 
+
 ["Influence of Deep-Ocean Warming on Coastal Sea Level Trends in the Gulf of Mexico"](https://doi.org/10.1029/2023JC019681)  <br />
 **Jacob Steinberg**, Christopher Piecuch, Benjamin Hamlington, Phillip Thompson, Sloan Coats. *Journal of Geophysical Research: Oceans (2024)* doi: https://doi.org/10.1029/2023JC019681
 
