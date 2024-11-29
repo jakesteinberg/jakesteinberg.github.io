@@ -9,9 +9,8 @@ header:
 ### in preparation
 "A Landscape of Eddy Vertical Structure: methods of characterization and the role of bathymetric slope and roughness" **Jacob Steinberg**, Elizabeth Yankovsky, Sylvia Cole, Laure Zanna
 
-"The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties + Part II: case studies" Stephen Griffies et al. 
-
 ### submitted 
+"The GFDL-CM4X climate model hierarchy: [Part I: model description and thermal properties](https://essopenarchive.org/users/538225/articles/1244737-the-gfdl-cm4x-climate-model-hierarchy-part-i-model-description-and-thermal-properties), [Part II: case studies](https://essopenarchive.org/users/538225/articles/1244739-the-gfdl-cm4x-climate-model-hierarchy-part-ii-case-studies)" Stephen Griffies et al. *submitted (Nov 2024) to the Journal of Advances in Modeling Earth Systems*.
 
 ### peer reviewed 
 ["A Link Between U.S. East Coast Sea Level and North Atlantic Subtropical Ocean Heat Content"](https://essopenarchive.org/users/794306/articles/1109063-a-link-between-u-s-east-coast-sea-level-and-north-atlantic-subtropical-ocean-heat-content)  <br />
