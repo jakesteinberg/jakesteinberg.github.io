@@ -7,7 +7,7 @@ title: "research"
 
 <span style="text-decoration: underline">past and present interests:</span> 
 
-**sea level**
+**sea level** <br />
 Sea level changes represent the integrated or combined effects of changes in ocean heat content, circulation, mass, and atmospheric forcing. Consideration of global-mean sea level over many decades reveals a positive and accelerating rate of increase. This trend and acceleration has been linked to ocean warming (thermosteric increases in ocean volume) and ocean mass gain (a loss of terrestrial water storage primarily coming from melting ice sheets). At regional scales, however, patterns of variability are more complex and less easily attributed to local and/or remote forcings. My work aims to identify relevant physical process that shape and moderate sea level change and regional scales. These include,  
 
 * linking observed quantities such as ocean bottom pressure, ocean heat content, sea level, and coastal sea level 
