@@ -13,7 +13,7 @@ In the news:
 * [Seas have drastically risen along southern US coast in past decade, 2023-04-10, Washington Post](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/)
 
 
-Prior to starting this position, I was a postdoctoral investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. 
+Prior to this, I was a postdoctoral investigator at Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. 
 
 At WHOI, I was a member of: 
 * [The Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
