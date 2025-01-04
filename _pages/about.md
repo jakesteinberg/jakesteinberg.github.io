@@ -13,4 +13,4 @@ Outside of work I like running, climbing, cycling, swimming, reading, brewing (+
 
 [curriculum vitae][1]
 
-[1]: /assets/documents/Steinberg_CV_2024_08_12.pdf
+[1]: /assets/documents/Steinberg_CV_2024_12_04.pdf
