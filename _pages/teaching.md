@@ -9,7 +9,8 @@ header:
 
 **mentoring**
 
-* 2023, 2024 NOAA Hollings Scholarship Program mentor
+* 2023-2025 NOAA Hollings Scholarship Program mentor
+* PhD thesis committee member (Temple University)
 
 **teaching**
 
