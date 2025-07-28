@@ -8,15 +8,15 @@ title: "research"
 <span style="text-decoration: underline">past and present interests:</span> 
 
 **sea level** <br />
-Sea level changes represent the integrated or combined effects of changes in ocean heat content, circulation, mass, and atmospheric forcing. Consideration of global-mean sea level over many decades reveals a positive and accelerating rate of increase. This trend and acceleration has been linked to ocean warming (thermosteric increases in ocean volume) and ocean mass gain (a loss of terrestrial water storage primarily coming from melting ice sheets). At regional scales, however, patterns of variability are more complex and less easily attributed to local and/or remote forcings. My work aims to identify relevant physical process that shape and moderate sea level change and regional scales. These include,  
+Over some region of the ocean, sea level changes represent the vertically integrated, or combined, effects of changes in ocean heat content, circulation, mass, and atmospheric forcing. Together, summing across all ocean basins, these changes manifest as a global mean sea level that has been rising over the past decades. This trend has been linked to increased ocean heat uptake (and thermal expansion) and ocean mass gain (a loss of terrestrial water storage). At regional scales, however, observed and simulated patterns of variability become more complex and less easily attributed to local and/or remote forcings. My work aims to identify relevant physical process that shape and moderate these sea level changes, especially along coastlines. These include,  
 
-* linking observed quantities such as ocean bottom pressure, ocean heat content, sea level, and coastal sea level 
+* linking observable quantities such as ocean bottom pressure, ocean temperature/salinity, sea level, and coastal sea level to a processes understanding of ocean variability
 
-* leveraging high resolution simulations to quantify heat and mass transport along coastal margins. 
+* leveraging high-resolution ocean and climate simulations to quantify heat and mass transport along coastal margins. 
 
-* identifying improvements in coastal sea level predictions across weekly to inter-annual timescales
+* identifying sources of coastal sea level predictability across weekly to inter-annual timescales
 
-* improving the representation of sea level relevant processes in climate models (non-Boussinesq configurations, interactive ice-sheet, self-attraction and loading parameterizations, boundary current representation)
+* improving the representation of sea level relevant processes in ocean and climate models (e.g. non-Boussinesq configurations, interactive ice-sheet representation, self-attraction and loading parameterizations, resolution of western boundary current systems)
 
 **postdoc projects** 
 * [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) (w/ S. Cole, E. Yankovsky, S. Smith, L. Zanna, K. Drushka, ...) 
