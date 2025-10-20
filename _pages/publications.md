@@ -7,13 +7,15 @@ header:
 ---
 
 ### in preparation
+Dynamical Downscaling Improvements in the Simulation of Sub-Annual U.S. East Coast Sea Level. Jacob Steinberg et al.
 
 ### submitted
 
 ### in press 
-The GFDL-CM4X climate model hierarchy: [Part I: model description and thermal properties](https://essopenarchive.org/users/538225/articles/1244737-the-gfdl-cm4x-climate-model-hierarchy-part-i-model-description-and-thermal-properties), [Part II: case studies](https://essopenarchive.org/users/538225/articles/1244739-the-gfdl-cm4x-climate-model-hierarchy-part-ii-case-studies). Stephen Griffies et al. *submitted (Nov 2024) to the Journal of Advances in Modeling Earth Systems*.
 
 ### peer reviewed 
+The GFDL-CM4X climate model hierarchy: [Part I: model description and thermal properties](https://doi.org/10.1029/2024MS004861), [Part II: case studies](https://doi.org/10.1029/2024MS004862). Stephen Griffies et al. *Journal of Advances in Modeling Earth Systems*.
+
 [Understanding the Role for Internal Variability in Driving Past and Future Ocean Dynamic Sea Level Trends in CMIP6 Simulations](https://doi.org/10.1175/JCLI-D-24-0336.1). <br />
 Sloan Coats, Phillip Thompson, Christopher Piecuch, John Fasullo, Benjamin Hamlington, Kristopher Karnauskas, Steven Nerem, Angelica Rodriguez, **Jacob Steinberg**, Julius Busecke. *Journal of Climate (2025)*. https://doi.org/10.1175/JCLI-D-24-0336.1.
 
