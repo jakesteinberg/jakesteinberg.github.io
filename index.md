@@ -5,21 +5,18 @@ header:
   image: /assets/images/stunner_landmanalauger.jpg
 ---
 
-Hello! I'm a research scientist at the National Oceanographic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory ([GFDL](https://www.gfdl.noaa.gov/)). At GFDL, I work to better understand the patterns and drivers of sea level variability. Using both observations and state-of-the-art ocean/climate models developed at GFDL, I work to identify mechanistic links between open-ocean and coastal sea level change. I'm particularly interested in coastal changes driven by ocean circulation and heat content change. This approach is based on experiences gained as an observational physical oceangrapher studying mesoscale eddies and eddy vertical structure.   
+Hello! 
+
+I'm a research scientist at the National Oceanographic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory ([GFDL](https://www.gfdl.noaa.gov/)). At GFDL, I work to better understand the patterns and drivers of sea level variability using both observations and state-of-the-art ocean and earth system models. I'm interested in leveraging new tools to wrangle large and cumbersome datasets to extract and understand patterns of ocean variability. With these tools I work to combine a dynamical understanding of ocean dynamics with data-driven identification of connections among observable quantities.
+
+My approach in pursuing these interests was shaped by my time at Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. At WHOI, I was luck to be a member of both [The Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) and the [NASA Ocean Surface Topography from Space](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects) Science Team.  
+
+I'm always looking for new collaborations and am eager to help make ocean science more approachable and understandable.
 
 In the news: 
 * [Why Seas are Surging, 2024-12-20, Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2024/us-south-sea-level-rise-climate-change/?itid=sr_1_a2093921-d14d-4c78-a102-08d5ba779357)
 * [The New Face of Flooding, 2024-04-29, Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2024/flooding-sea-level-rise-gulf-coast/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE0MzYzMjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE1NzQ1NTk5LCJpYXQiOjE3MTQzNjMyMDAsImp0aSI6IjU4NjRmNGRjLTJiYTItNDRiZS1iZTE5LTMzYWNiZTY2ZThjZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50L2ludGVyYWN0aXZlLzIwMjQvZmxvb2Rpbmctc2VhLWxldmVsLXJpc2UtZ3VsZi1jb2FzdC8ifQ.OfWJgBu-6RJGpDUux7a7Wp9azfRWUoy0ewRIJBCnr_Y&itid=gfta)
 * [Seas have drastically risen along southern US coast in past decade, 2023-04-10, Washington Post](https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/)
-
-
-Prior to this, I was a postdoctoral investigator at Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu), leveraging observations collected by satellites, ships, moorings, floats, and autonomous underwater vehicles to study the ocean. Past and present research interests include: ocean general circulation, ocean heat uptake, mesoscale eddy turbulence, eddy vertical structure, and the relationship between steric sea level and manometric sea level change. 
-
-At WHOI, I was a member of: 
-* [The Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io) 
-    + goal: use observations to improve climate model mesoscale eddy parameterizations
-* [NASA Ocean Surface Topography from Space](https://sealevel.jpl.nasa.gov/documents/1688/?list=projects)  
-    + goal: explore patterns and trends in ocean bottom pressure, steric height, and sea surface height 
 
 ### interest in ocean eddies 
 Of the many shapes, sizes, and types of eddies found in the ocean, I've always been interested in those that can live for many months and have the potential to trap and transport heat and nutrients over many hundreds of kilometers. Most eddies, including these coherent vortices, are surface intensified, but vertical structures extending below the thermocline mix isolated water masses and play an important role in the transfer of energy to the deep ocean. While larger and persistent eddies can be observed from altimetric observations of sea surface height, many are missed because they are too small or sub-surface intensified. My interests in eddy vertical structures thus range from topographic steering to decomposing surface observations into interior contributions.      
