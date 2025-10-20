@@ -3,7 +3,7 @@ title: "about"
 permalink: /about/
 ---
 
-Greetings!
+Greetings (again)! Here's a more formal bit about my background and how these experiences have shaped my thinking. 
 
 I'm a research scientist at NOAA's Geophysical Fluid Dynamics Laboratory. I spend my time thinking about the drivers of regional sea level change, especially along the world's coastlines, and their links to ocean water mass change. These changes are linked to increases in ocean heat content and corresponding changes in ocean circulation (i.e. Gulf Stream strength and position and patterns of meridional overturning). I leverage observational datasets and state of the art earth system models to try and better understand links between these process and build a mechanistic understanding that can be leveraged to anticipate future changes (across weekly to decadal timescales). 
 
