@@ -42,11 +42,16 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          {% for page in site.pages %}
-            {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
+          {% assign show_home_nav = false %}
+          {% for p in site.pages %}
+            {% if p.permalink == '/' %}
+              {% assign about_title = p.title %}
+              {% if p.nav != false %}{% assign show_home_nav = true %}{% endif %}
+            {% endif %}
           {% endfor %}
 
           <!-- About -->
+          {% if show_home_nav %}
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
@@ -55,6 +60,7 @@
               {% endif %}
             </a>
           </li>
+          {% endif %}
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
