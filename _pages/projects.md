@@ -36,6 +36,10 @@ A significant part of my early career involved the development and use of buoyan
 Through this work, I frequently worked with commercial fishing vessels and engaged with people outside of academia. These experiences helped me build skills as an educator while meaningfully engaging with others to discuss how we study the ocean, what we find, and why it matters. This all reinforced my belief that accessible storytelling is essential to meaningful science communication.
 
 ---
+## Videos
+
+These videos highlight an eddy water mass entrainment experiment (left) and Deepglider deployment (right)
+
 
 <div class="row mt-3">
   <div class="col-sm-6">

@@ -54,6 +54,15 @@ cv:
         highlights:
           - ordinary and partial differential equations
 
+      - institution: University of Washington
+        location: Seattle, WA
+        area: Physical Oceanography
+        studyType: M.S.
+        start_date: 2013 # update if needed
+        end_date: 2018 # update if needed
+        highlights:
+          - as part of the fulfillment of my PhD
+
       - institution: University of Maryland
         location: College Park, MD
         url: https://umd.edu/
@@ -71,26 +80,28 @@ cv:
       - bullet: "**Teaching Assistant**, University of Washington — ATM 509: Geophysical Fluid Dynamics I (Winter 2018, 2019, 2020)"
 
     Mentoring:
-      - bullet: "**Mentor**, NOAA Hollings and Lapenta Scholarship Programs, NOAA GFDL (2023–2025)"
-      - bullet: "**PhD Thesis Committee Member**, Temple University (2023–present)"
+      - bullet: "**Mentor**, NOAA Hollings, NOAA Lapenta, and Princeton CIMES Scholarship Programs (2023–2025)"
+      - bullet: "**PhD Advisory Committee Member**, Temple University (2023–present)"
+
+    Professional Activities:
+      - bullet: "U.S. CLIVAR - Phenomena, Observations, and Synthesis Panel Member (2024-2028)"
+      - bullet: "Ocean Sciences Meeting Session Co-Convener and Co-Chair (2024, 2022)"
+      - bullet: "NASA ROSES PO-22 Review Panel Member"
+      - bullet: "Peer reviewer — National Science Foundation, Nature Communications, Geophysical Research Letters, Journal of Climate, Journal of Physical Oceanography, Journal of Geophysical Research: Oceans, Journal of Advances in Modeling of Earth Systems, EGU - Ocean Science, Quarterly Journal of the Royal Meteorological Society, Continental Shelf Research, Advances in Space Research, Limnology and Oceanography, Earth's Future, Journal of Marine Systems"
 
     Skills:
       - name: Scientific Programming
-        level: Expert
         icon: fa-solid fa-code
-        keywords: "Python, MATLAB, Fortran"
+        keywords: "Python (Xarray, Numpy, SciPy, Pangeo, Dask, SciKitLearn), MATLAB, Fortran"
 
       - name: Ocean & Climate Modeling
-        level: Expert
         icon: fa-solid fa-water
-        keywords: "MOM6, GFDL-CM4X, CMIP6, NeverWorld2"
+        keywords: "MOM6, GFDL-CM4X, CMIP6, NeverWorld2, ECCO"
 
-      - name: Data Analysis
-        level: Expert
+      - name: Observational Data Analysis
         icon: fa-solid fa-chart-line
-        keywords: "Xarray, NumPy, SciPy, Pangeo, Dask"
+        keywords: "Ship-based hydrography, Moorings, Argo, Gliders, Satellite Alimtetry/Gravimetry,"
 
       - name: Autonomous Underwater Vehicles
-        level: Expert
         icon: fa-solid fa-ship
         keywords: "Seaglider, Deepglider — deployment, piloting, recovery, and data processing"

@@ -16,13 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit: 3
 
 latest_posts:
   enabled: false
 ---
 
-I'm a research scientist at NOAA's [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/), where I work to understand the patterns and drivers of sea level variability and improve sea level process representation in ocean and climate models. I'm especially interested in sea level along world's coastlines and impacts to the built environment. My research leverages observational datasets and state-of-the-art ocean and earth system models to link regional sea level change to ocean heat content, water mass transformation, and larger-scale ocean circulation changes. A central goal of my work is building a mechanistic understanding that can imrpove predictions of future states across daily to decadal timescales.
+I'm a research scientist at NOAA OAR's [Geophysical Fluid Dynamics Laboratory, where I work to understand the patterns and drivers of sea level variability and improve sea level process representation in ocean and climate models. I'm especially interested in sea level along world's coastlines and impacts to the built environment. My research leverages observational datasets and state-of-the-art ocean and earth system models to link regional sea level change to ocean heat content, water mass transformation, and larger-scale ocean circulation changes. A central goal of my work is building a mechanistic understanding that can imrpove predictions of future states across daily to decadal timescales.
 
 
 

@@ -9,8 +9,7 @@ profile:
   image: roulet_2011_pv.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NOAA/GFDL</p>
-    <p>Princeton, NJ</p>
+    <p>courtesy Roullet et al. 2012</p>
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
