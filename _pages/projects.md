@@ -1,17 +1,23 @@
 ---
 layout: page
-title: research
+title: research interests
 permalink: /research/
 description:
 nav: true
 nav_order: 3
 ---
 
-## Sea Level (sub-annual to decadal variability)
+## Patterns and Drivers of Sea Level Variability Across Timescales
 
-I am interesting in improving our understanding of regional sea level change — especially along the world's coastlines — and connections to ocean heat content, water mass transformation, and large-scale circulation. I use a combination of observations and state-of-the-art ocean and earth system models to identify the physical mechanisms driving these changes and to assess their predictability on weekly to decadal timescales. Key processes of interest include Gulf Stream variability and shifts in the Atlantic meridional overturning circulation (AMOC).
+I am broadly interested in the processes moderating regional sea level variability and more specifically how changes are felt along the world's coastlines. I work to connect observed and modeled changes to ocean heat content, water mass transformation, and large-scale ocean circulation change. I use a combination of observations and state-of-the-art ocean and earth system models to identify the physical mechanisms driving these changes and to assess their predictability across daily to decadal timescales. Key processes of interest include:
 
-This builds on work completed at Woods Hole Oceanographic Institution using the ECCO ocean state estimate and satellite gravimetry and altimetry measurements (NASA Ocean Surface Topography Science Team member)
+- coastal response to western boundary current changes (e.g. links between US East Coast sea level and the Gulf Stream and the Atlantic meridional overturning circulation).
+- dependence of simulated coastal sea level variability on continental shelf and slope bathymetric resolution.
+- partitioning of sterodynamic sea level change into contributions by water mass
+- watermass transformation and ocean heat content implications
+- ocean model development with respect to sea level processes (non-Boussinesq configuration, terrestrial water storage changes) 
+- sea level budget observables (satellite gravimetry and altimetry, Argo float profiles) 
+- ocean state estimation (ECCO) 
 
 ---
 
@@ -25,6 +31,17 @@ My PhD research at the University of Washington centered on the three-dimensiona
 
 ## Autonomous Underwater Vehicles
 
-A significant part of my early career involved the deployment, piloting, and recovery of autonomous underwater gliders in open-ocean environments. This observational work required extensive time at sea and produced rich datasets that have been used to study eddy dynamics, water mass structure, and deep ocean variability. I remain interested in the development of observational strategies that combine autonomous platforms with remote sensing and numerical models.
+A significant part of my early career involved the development and use of buoyancy driven autonomous underwater vehicles (gliders) in the Pacific and Atlantic. After carrying out many field campaigns, I processed and interrogated rich datasets in the study of mesoscale eddy dynamics, water mass structure, and deep ocean variability. I remain interested in the development of observational strategies that combine autonomous platforms with remote sensing and numerical models.
 
+Through this work, I frequently worked with commercial fishing vessels and engaged with people outside of academia. These experiences helped me build skills as an educator while meaningfully engaging with others to discuss how we study the ocean, what we find, and why it matters. This all reinforced my belief that accessible storytelling is essential to meaningful science communication.
 
+---
+
+<div class="row mt-3">
+  <div class="col-sm-6">
+    {% include video.liquid path="https://www.youtube.com/embed/QVJNaVUBONo" class="img-fluid rounded z-depth-1" height="315" %}
+  </div>
+  <div class="col-sm-6">
+    {% include video.liquid path="https://www.youtube.com/embed/VMxg_EHc-Bo" class="img-fluid rounded z-depth-1" height="315" %}
+  </div>
+</div>
