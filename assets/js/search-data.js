@@ -412,16 +412,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_example/";
+            },},{id: "news-seas-have-drastically-risen-along-southern-us-coast-in-past-decade-washington-post",
+          title: 'Seas have drastically risen along southern US coast in past decade - Washington...',
+          description: "",
+          section: "News",},{id: "news-the-new-face-of-flooding-washington-post",
+          title: 'The New Face of Flooding - Washington Post',
+          description: "",
+          section: "News",},{id: "news-why-seas-are-surging-washington-post",
+          title: 'Why Seas are Surging - Washington Post',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
