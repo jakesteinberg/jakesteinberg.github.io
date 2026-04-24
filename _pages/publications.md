@@ -15,6 +15,12 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">In Preparation &amp; Submitted</h2>
+
+{% bibliography --query @*[keywords=preprint] %}
+
+<h2 class="bibliography">Published</h2>
+
+{% bibliography --query @*[keywords!=preprint] %}
 
 </div>
