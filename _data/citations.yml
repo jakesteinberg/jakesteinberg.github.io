@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   Brnb7nAAAAAJ:4TOpqqG69KYC:
     citations: 2
     title: Deep ocean steric sea level change in the subtropical Northwest Atlantic Ocean
     year: '2025'
   Brnb7nAAAAAJ:9yKSN-GCB0IC:
-    citations: 122
+    citations: 123
     title: Role of shellfish aquaculture in the reduction of eutrophication in an urban estuary
     year: '2018'
   Brnb7nAAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
-    citations: 10
+    citations: 11
     title: 'Eddy vertical structure and variability: Deepglider observations in the North Atlantic'
     year: '2022'
   Brnb7nAAAAAJ:_kc_bZDykSQC:
