@@ -15,12 +15,16 @@ nav_order: 4
 
 <div class="publications">
 
-<h2 class="bibliography">In Preparation &amp; Submitted</h2>
+<h2 class="bibliography">In Preparation</h2>
 
-{% bibliography --query @*[keywords=preprint] %}
+{% bibliography --query @*[keywords=inprep] %}
+
+<h2 class="bibliography">Submitted</h2>
+
+{% bibliography --query @*[keywords=submitted] %}
 
 <h2 class="bibliography">Published</h2>
 
-{% bibliography --query @*[keywords!=preprint] %}
+{% bibliography --query @*[keywords!=inprep][keywords!=submitted] %}
 
 </div>
