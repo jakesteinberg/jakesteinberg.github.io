@@ -25,6 +25,6 @@ nav_order: 4
 
 <h2 class="bibliography">Published</h2>
 
-{% bibliography --query @*[keywords!=inprep][keywords!=submitted] %}
+{% bibliography --query @article[journal] %}
 
 </div>
