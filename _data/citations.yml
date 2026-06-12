@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   Brnb7nAAAAAJ:4TOpqqG69KYC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: 'NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions'
     year: '2022'
   Brnb7nAAAAAJ:M3ejUd6NZC8C:
-    citations: 2
+    citations: 3
     title: 'A landscape of mesoscale eddy vertical structure: the influence of bathymetric slope and roughness on kinetic energy'
     year: '2025'
   Brnb7nAAAAAJ:MXK_kJrjxJIC:
@@ -26,7 +26,7 @@ papers:
     title: Seasonality of the mesoscale inverse cascade as inferred from global scale-dependent eddy energy observations
     year: '2022'
   Brnb7nAAAAAJ:ULOm3_A8WrAC:
-    citations: 5
+    citations: 6
     title: A Link between US East coast sea level and North Atlantic subtropical ocean heat content
     year: '2024'
   Brnb7nAAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties'
     year: '2025'
   Brnb7nAAAAAJ:YsMSGLbcyi4C:
-    citations: 65
+    citations: 66
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
