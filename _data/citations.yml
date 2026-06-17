@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-17'
 papers:
   Brnb7nAAAAAJ:4TOpqqG69KYC:
     citations: 2
     title: Deep ocean steric sea level change in the subtropical Northwest Atlantic Ocean
     year: '2025'
   Brnb7nAAAAAJ:9yKSN-GCB0IC:
-    citations: 123
+    citations: 124
     title: Role of shellfish aquaculture in the reduction of eutrophication in an urban estuary
     year: '2018'
   Brnb7nAAAAAJ:LkGwnXOMwfcC:
-    citations: 28
+    citations: 29
     title: 'NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions'
     year: '2022'
   Brnb7nAAAAAJ:M3ejUd6NZC8C:
@@ -26,7 +26,7 @@ papers:
     title: Seasonality of the mesoscale inverse cascade as inferred from global scale-dependent eddy energy observations
     year: '2022'
   Brnb7nAAAAAJ:ULOm3_A8WrAC:
-    citations: 6
+    citations: 8
     title: A Link between US East coast sea level and North Atlantic subtropical ocean heat content
     year: '2024'
   Brnb7nAAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties'
     year: '2025'
   Brnb7nAAAAAJ:YsMSGLbcyi4C:
-    citations: 66
+    citations: 68
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
@@ -49,12 +49,16 @@ papers:
     citations: 1
     title: 'The GFDL-CM4X climate model hierarchy, Part II: case studies'
     year: '2025'
+  Brnb7nAAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Steric-setup effects on US East Coast sea-level change
+    year: '2026'
   Brnb7nAAAAAJ:kNdYIx-mwKoC:
-    citations: 15
+    citations: 16
     title: "Influence of deep\u2010ocean warming on coastal sea\u2010level decadal trends in the Gulf of Mexico"
     year: '2024'
   Brnb7nAAAAAJ:qjMakFHDy7sC:
-    citations: 61
+    citations: 62
     title: Bioextractive removal of nitrogen by oysters in Great Bay Piscataqua River estuary, New Hampshire, USA
     year: '2020'
   Brnb7nAAAAAJ:qxL8FJ1GzNcC:
