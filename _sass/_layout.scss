@@ -33,6 +33,11 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
+// Publications page gets a wider container so entries (titles, badges, links) have more room
+.container-publications {
+  max-width: 1200px;
+}
+
 // Profile
 .profile {
   img {
