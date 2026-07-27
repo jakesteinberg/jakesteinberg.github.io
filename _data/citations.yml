@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-27'
 papers:
   Brnb7nAAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Role of shellfish aquaculture in the reduction of eutrophication in an urban estuary
     year: '2018'
   Brnb7nAAAAAJ:LkGwnXOMwfcC:
-    citations: 30
+    citations: 31
     title: 'NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions'
     year: '2022'
   Brnb7nAAAAAJ:M3ejUd6NZC8C:
@@ -38,11 +38,11 @@ papers:
     title: Glider sampling simulations in high-resolution ocean models
     year: '2020'
   Brnb7nAAAAAJ:YOwf2qJgpHMC:
-    citations: 7
+    citations: 8
     title: 'The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties'
     year: '2025'
   Brnb7nAAAAAJ:YsMSGLbcyi4C:
-    citations: 68
+    citations: 69
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
@@ -58,7 +58,7 @@ papers:
     title: Steric-setup effects on US East Coast sea-level change
     year: '2026'
   Brnb7nAAAAAJ:kNdYIx-mwKoC:
-    citations: 16
+    citations: 17
     title: "Influence of deep\u2010ocean warming on coastal sea\u2010level decadal trends in the Gulf of Mexico"
     year: '2024'
   Brnb7nAAAAAJ:qjMakFHDy7sC:
@@ -66,7 +66,7 @@ papers:
     title: Bioextractive removal of nitrogen by oysters in Great Bay Piscataqua River estuary, New Hampshire, USA
     year: '2020'
   Brnb7nAAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
+    citations: 1
     title: Understanding the Role for Internal Variability in Driving Past and Future Ocean Dynamic Sea Level Trends in CMIP6 Simulations
     year: '2025'
   Brnb7nAAAAAJ:u-x6o8ySG0sC:
@@ -78,7 +78,7 @@ papers:
     title: Observed evolution of a California Undercurrent eddy
     year: '2019'
   Brnb7nAAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 34
     title: 'GCM-filters: A Python package for diffusion-based spatial filtering of gridded data'
     year: '2022'
   Brnb7nAAAAAJ:zYLM7Y9cAGgC:
