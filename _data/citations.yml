@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-10'
 papers:
   Brnb7nAAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -19,7 +19,7 @@ papers:
     year: '2022'
   Brnb7nAAAAAJ:M3ejUd6NZC8C:
     citations: 3
-    title: 'A landscape of mesoscale eddy vertical structure: the influence of bathymetric slope and roughness on kinetic energy'
+    title: 'A landscape of mesoscale eddy vertical structure: The influence of bathymetric slope and roughness on kinetic energy'
     year: '2025'
   Brnb7nAAAAAJ:MXK_kJrjxJIC:
     citations: 1
@@ -37,12 +37,16 @@ papers:
     citations: 4
     title: Glider sampling simulations in high-resolution ocean models
     year: '2020'
+  Brnb7nAAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: 'Argo at a Crossroads: Achievements, Impacts, and the Imperative for Sustained Global Ocean Observations'
+    year: '2026'
   Brnb7nAAAAAJ:YOwf2qJgpHMC:
     citations: 8
     title: 'The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties'
     year: '2025'
   Brnb7nAAAAAJ:YsMSGLbcyi4C:
-    citations: 69
+    citations: 71
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
@@ -50,7 +54,7 @@ papers:
     title: 'Eddy vertical structure and variability: Deepglider observations in the North Atlantic'
     year: '2022'
   Brnb7nAAAAAJ:_kc_bZDykSQC:
-    citations: 1
+    citations: 2
     title: 'The GFDL-CM4X climate model hierarchy, Part II: case studies'
     year: '2025'
   Brnb7nAAAAAJ:aqlVkmm33-oC:
@@ -62,7 +66,7 @@ papers:
     title: "Influence of deep\u2010ocean warming on coastal sea\u2010level decadal trends in the Gulf of Mexico"
     year: '2024'
   Brnb7nAAAAAJ:qjMakFHDy7sC:
-    citations: 62
+    citations: 61
     title: Bioextractive removal of nitrogen by oysters in Great Bay Piscataqua River estuary, New Hampshire, USA
     year: '2020'
   Brnb7nAAAAAJ:qxL8FJ1GzNcC:
