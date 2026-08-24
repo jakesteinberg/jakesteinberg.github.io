@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-24'
 papers:
   Brnb7nAAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Deep ocean steric sea level change in the subtropical Northwest Atlantic Ocean
     year: '2025'
   Brnb7nAAAAAJ:9yKSN-GCB0IC:
-    citations: 127
+    citations: 128
     title: Role of shellfish aquaculture in the reduction of eutrophication in an urban estuary
     year: '2018'
   Brnb7nAAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: 'A landscape of mesoscale eddy vertical structure: The influence of bathymetric slope and roughness on kinetic energy'
     year: '2025'
   Brnb7nAAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: On the vertical structure of deep-ocean subinertial variability
     year: '2023'
   Brnb7nAAAAAJ:Se3iqnhoufwC:
@@ -30,7 +30,7 @@ papers:
     title: Seasonality of the mesoscale inverse cascade as inferred from global scale-dependent eddy energy observations
     year: '2022'
   Brnb7nAAAAAJ:ULOm3_A8WrAC:
-    citations: 10
+    citations: 11
     title: A Link between US East coast sea level and North Atlantic subtropical ocean heat content
     year: '2024'
   Brnb7nAAAAAJ:UeHWp8X0CEIC:
@@ -42,7 +42,7 @@ papers:
     title: 'Argo at a Crossroads: Achievements, Impacts, and the Imperative for Sustained Global Ocean Observations'
     year: '2026'
   Brnb7nAAAAAJ:YOwf2qJgpHMC:
-    citations: 8
+    citations: 10
     title: 'The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties'
     year: '2025'
   Brnb7nAAAAAJ:YsMSGLbcyi4C:
@@ -50,7 +50,7 @@ papers:
     title: "Diffusion\u2010based smoothers for spatial filtering of gridded geophysical data"
     year: '2021'
   Brnb7nAAAAAJ:_FxGoFyzp5QC:
-    citations: 11
+    citations: 12
     title: 'Eddy vertical structure and variability: Deepglider observations in the North Atlantic'
     year: '2022'
   Brnb7nAAAAAJ:_kc_bZDykSQC:
@@ -66,7 +66,7 @@ papers:
     title: "Influence of deep\u2010ocean warming on coastal sea\u2010level decadal trends in the Gulf of Mexico"
     year: '2024'
   Brnb7nAAAAAJ:qjMakFHDy7sC:
-    citations: 61
+    citations: 62
     title: Bioextractive removal of nitrogen by oysters in Great Bay Piscataqua River estuary, New Hampshire, USA
     year: '2020'
   Brnb7nAAAAAJ:qxL8FJ1GzNcC:
